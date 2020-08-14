@@ -188,7 +188,7 @@ body::after {
     bottom: 1rem;
     left: 0;
     right: 0;
-    content: "Dongwen Lin | Infomation System of Technology and Design | Singapore Univesity Of Technology and Design";
+    /* content: "no rights reserved"; */
     color: lightgrey;
     font-size: 1.1rem;
     padding-right: 5rem;
